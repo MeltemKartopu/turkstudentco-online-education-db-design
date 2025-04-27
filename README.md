@@ -63,11 +63,14 @@
 
 ---
 
-# 🎯 Özet
+## 🎯 Kazanımlar
 
-Bu proje ile veri tabanı tasarımında:
+Bu proje sürecinde:
 
-- **Veri tekrarı önlenmiş**,  
-- **Çok-çok ilişkiler doğru ara tablolarla modellenmiş**,  
-- **Veri bütünlüğü sağlanmış**,  
-- **Ölçeklenebilir bir yapı oluşturulmuştur.**
+- İlişkisel veritabanı tasarımı yapma ve ilişki türlerini modelleme
+- Birincil Anahtar (Primary Key) ve Yabancı Anahtar (Foreign Key) kullanımı
+- 1-N ve N-N ilişkilerde ara tabloların doğru şekilde kurgulanması
+- Normalizasyon kurallarını uygulayarak veri tekrarını azaltma
+- PostgreSQL üzerinde veri tabanı şeması oluşturma ve yönetme
+- İleri düzey veritabanı yapıları: indeksler, kısıtlamalar (constraints) ve otomatik ID yönetimi kullanımı
+- Gerçek bir senaryoya dayalı veritabanı tasarımı deneyimi kazanıldı.
